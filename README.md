@@ -75,14 +75,14 @@ Share the list with your classmates, your friends and everyone :)
 | ★★★ | [Topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) | A list of tutorials written by respected Topcoder members. Many top programmers started learning data sciences from here. |
 | ★★★ | [E-Maxx (Russian)](http://e-maxx.ru/algo/), [(English)](https://cp-algorithms.com/) | A tutorial website widely used and referenced in the Russian-speaking competitive programming community. Most of the articles of the original site have been translated into English, Google Translate works okay for the remaining ones. |
 | ★★☆ | [Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) | A website with a large archive of nicely written articles on different topics. It is a great complimentary resource for algorithm courses. |
-| ★★☆ | [PEGWiki](http://wcipeg.com/wiki/Special:AllPages) | A website with amazing in-depth wiki-like writeups on many topics. It's far better than those on Wikipedia in my opinion. |
+| ★★☆ | [PEGWiki](https://wcipeg.com/wiki/Special:AllPages) | A website with amazing in-depth wiki-like writeups on many topics. It's far better than those on Wikipedia in my opinion. |
 | ★★☆ | [Notes - HackerEarth](https://www.hackerearth.com/practice/notes/trending/) | A great crowdsourcing platform for tutorials. Also visit [Code Monk](https://www.hackerearth.com/practice/codemonk/). |
 | ★★☆ | [USA Computing Olympiad (USACO)](https://www.usaco.org/) | Contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace. |
 | ★★☆ | [basecs](https://medium.com/basecs) | A blog with in-depth, illustrated tutorials on basic algorithms and data structures. |
 | ★★☆ | [Competitive Programming - Commonlounge](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca/main?r=acp) | Short video tutorials for beginner and intermediate concepts. Advanced tutorials selected from the best ones available on various CP blogs. |
 | ★☆☆ | [OLYMPIADS IN INFORMATICS](https://www.mii.lt/olympiads_in_informatics/index.html) | An international journal focused on the research and practice of professionals who are working in the field of teaching and learning informatics to talented student. |
 | ★☆☆ | [algolist (Russian)](http://algolist.manual.ru/) | A Russian website devoted to algorithms of all sorts. Some topics listed on this website seems pretty interesting. |
-| ★★☆ | [演算法筆記 (Algorithm Notes) (Chinese)](http://web.ntnu.edu.tw/~algo/) | One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms. |
+| ★★☆ | [演算法筆記 (Algorithm Notes) (Chinese)](https://web.ntnu.edu.tw/~algo/) | One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms. |
 | ★★☆ | [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1) | Papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things. |
 | ★★★ | [Mini-Editorials](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees | Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems |
 | ★★☆ | [OI Wiki (Competitive Programming) (Chinese)](https://oi-wiki.org/) | OI Wiki is committed to being a free and open continuously updated programming competition (competitive programming) knowledge integration site. This wiki is a sort of companion or guide for the competitive programmer who's trying to learn something |
@@ -94,7 +94,7 @@ Share the list with your classmates, your friends and everyone :)
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★☆ | [Code Monk](https://www.hackerearth.com/practice/codemonk/), by HackerEarth | A fantastic step-by-step tutorial on the essential topics in competitive programming. |
-| ★★★ | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
+| ★★★ | [Stanford CS 97SI: Introduction to Competitive Programming Contests](https://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
 | ★★☆ | [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions-0) | A course by ITMO University on competitive coding on edX.|
 | ★★☆ | [Codechef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO) | Video Lectures from [Codechef's Indian Programming Camp 2016](https://blog.codechef.com/2016/08/03/lectures-from-indian-coding-camp/). Lectures given by top competitive programmers like Sergey Kulik, Kevin Charles Atienza and Anudeep Nekkanti. Primarily focused on exploring these concepts by applying them to actual competitive contest problems. |
 | ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
@@ -107,7 +107,7 @@ Share the list with your classmates, your friends and everyone :)
 | --- | --- | --- |
 | ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
 | ★★★ | [MIT SMA 5503: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
-| ★★☆ | [UIUC Algorithm Course](http://jeffe.cs.illinois.edu/teaching/algorithms/) | lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics |
+| ★★☆ | [UIUC Algorithm Course](https://jeffe.cs.illinois.edu/teaching/algorithms/) | lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics |
 
 
 ## Books
@@ -115,16 +115,16 @@ Share the list with your classmates, your friends and everyone :)
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★☆ | [Competitive Programming](https://cpbook.net/), by Steven and Felix Halim | This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book. ... The first edition is free for [download (pdf)](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf). |
+| ★★☆ | [Competitive Programming](https://cpbook.net/), by Steven and Felix Halim | This book contains a collection of relevant data structures, algorithms, and programming tips. It's a well-received book. ... The first edition is free for [download (pdf)](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf). |
 | ★★☆ | [Programming Challenges: The Programming Contest Training Manual](https://www.amazon.com/Programming-Challenges-Contest-Training-Computer/dp/0387001638), by Steven Skiena and Miguel Revilla | This book includes more than 100 programming challenges, as well as the theory and key concepts necessary for approaching them. Problems are organized by topic, and supplemented by complete tutorial material. |
 | ★★☆ | [Competitive Programmer's Handbook](https://cses.fi/book/index.html), by Antti Laaksonen | An introduction to competitive programming for aspiring IOI and ICPC contestants. Free to [download (pdf)](https://cses.fi/book/book.pdf). |
 | ★★☆ | [Algorithmic Thinking: A Problem-Based Introduction](https://nostarch.com/algorithmic-thinking), by Daniel Zingaro | A book that teaches data structures and algorithms using competitive programming problems (IOI, USACO, CCC/CCO, etc.). |
 | ★★☆ | [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736), by Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars | This is a well-written book which covers a broad range of computational geometry problems. |
 | ★☆☆ | [The Hitchhiker’s Guide to the Programming Contests](http://comscigate.com/Books/contests/icpc.pdf), by Nite Nimajneb | This book is free for [download (pdf)](http://comscigate.com/Books/contests/icpc.pdf). This book covers various topics relevant to competitive programming. |
 | ★★★ | [プログラミングコンテストチャレンジブック (Japanese)](http://goo.gl/M4yfbr), by 秋葉拓哉, 岩田陽一, 北川宜稔 | An absolutely phenomenal book. The contents, organized in a very coherent manner, are nothing short of amazing. ... 培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享 (Chinese Traditional) |
-| ★★☆ | [算法竞赛入门经典 (Chinese)](http://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional) |
+| ★★☆ | [算法竞赛入门经典 (Chinese)](https://www.tup.com.cn/booksCenter/book_05568701.html), by 刘汝佳 | The Art of Algorithms and Programming Contests (English), 打下好基礎：程式設計與演算法競賽入門經典 (Chinese Traditional) |
 | ★★☆ | [算法竞赛入门经典——训练指南 (Chinese)](https://www.amazon.cn/算法竞赛入门经典-训练指南-刘汝佳/dp/B009SJJGOU), by 刘汝佳, 陈锋 | 提升程式設計的解題思考力─國際演算法程式設計競賽訓練指南 (Chinese Traditional) |
-| ★★★ | [算法艺术与信息学竞赛 (Chinese)](http://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
+| ★★★ | [算法艺术与信息学竞赛 (Chinese)](https://goo.gl/O1tr8v), by 刘汝佳, 黄亮 | An old-time classic. It's old but the contents in this book are still considered to be very difficult by today's standards. |
 
 ### Books for Algorithms
 
@@ -132,7 +132,7 @@ Share the list with your classmates, your friends and everyone :)
 | --- | --- | --- |
 | ★★★ | [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms), by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein | Also known as CLRS (taken from name initials), this book is often referred to as the "bible" for algorithms and data structures. It's one of the most popular textbooks for university algorithm courses. This book covered various algorithms and data structures in great detail. The writing is more rigorous and can be difficult to some. |
 | ★★☆ | [Algorithm Design](http://amzn.to/VjhioK), by Jon Kleinberg and Éva Tardos | This book revolves around techniques for designing algorithms. It's well-organized and written in a clear, understandable language. Each chapter is backed with practical examples and helpful exercises. The chapter on network flow is highly praised by lots. ... The lecture slides that accompany the textbook are available on its [official website](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/). |
-| ★★☆ | [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena | The book is written in more readable text. Some find it comprehensive than other books. You can also find some good resources (including the author's own video lectures) on its [official website](http://www.algorist.com). |
+| ★★☆ | [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693), by Steven S. Skiena | The book is written in more readable text. Some find it comprehensive than other books. You can also find some good resources (including the author's own video lectures) on its [official website](https://www.algorist.com). |
 | ★★★ | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X), by Robert Sedgewick and Kevin Wayne | This book is neatly categorized, coupled with elaborate explanations and fantastic illustrations. It is used in some IOI training camps as a textbook. |
 |     | [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures), by Marcello La Rocca | This book provides a different approach to algorithms, balancing theory with a more practical angle, with a section per-chapter focusing on how to apply algorithms to real-world use cases that can be found in your daily work, or in competitive programming; it also presents a blend of classic, advanced, and new algorithms. |
 | ★★★ | [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/), by Jeff Erickson | A free electronic version of a self-published textbook licensed under CC by 4.0. This is a well written book from lecture notes of theoretical computer science courses at the University of Illinois. Covers the main paradigms of backtracking, dynamic programming, greedy, and particularly graphs in depth. |
@@ -163,7 +163,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★★ | [SPOJ](https://www.spoj.com/) | The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or taken from previous programming contests, some of which are great problems for practice (refer to the [Problem classifiers](#problem-classifiers) section). SPOJ also allows advanced users to organize contests under their own rules. |
 | ★★☆ | [Timus](https://acm.timus.ru/) | Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps. |
 | ★☆☆ | [HDU](http://acm.hdu.edu.cn/) | HDU is an online judge maintained by Hangzhou Dianzi University. It's home to many classic problems from the Chinese IOI scene. |
-| ★★☆ | [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp) | Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan. |
+| ★★☆ | [Aizu Online Judge](https://judge.u-aizu.ac.jp/onlinejudge/index.jsp) | Aizu online judge is a contest platform and problem archive hosted by The University of Aizu. It has a lot of great problems from programming competitions in Japan. |
 | ★★☆ | [UVa](https://uva.onlinejudge.org/) | An old-school problem archive / online judge with rich history. Thousands of problems, including many classic ones, are featured here. However, it is strongly advised that you practice with [uHunt](https://uhunt.onlinejudge.org/id/0) following its "Competitive Programming Exercise" section. |
 | ★★☆ | [HackerRank](https://www.hackerrank.com) | HackerRank is a company that focuses on competitive programming challenges for both consumers and businesses. HackerRank's programming challenges can be solved in a variety of programming languages and span multiple computer science domains. |
 | ★★☆ | [POJ](http://poj.org/) | POJ is an online judge with many great problems maintained by Peking University. Most Chinese competitive programmers began their journey here. The platform is really dated so mysterious compilation and run-time issues may occur. |
@@ -182,7 +182,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [A2 Online Judge](https://a2oj.com/Categories.jsp) | Mixed |
-| ★★★ | [Problem Classifier](http://problemclassifier.appspot.com/) | SPOJ |
+| ★★★ | [Problem Classifier](https://problemclassifier.appspot.com/) | SPOJ |
 | ★★☆ | [UVa Online Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) | CP Book |
 | ★☆☆ | [Codeforces Tags](https://codeforces.com/problemset?tags=dp) | CF (DP) |
 | ★★☆ | [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) | HackerRank |
@@ -249,7 +249,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★☆ | [Yet again on C++ input/output - Codeforces](https://codeforces.com/blog/entry/5217) | Learn more about C++ I/O optimizations. |
 | ★★☆ | [C++ Tricks - Codeforces](https://codeforces.com/blog/entry/15643) ... [What are some cool C++ tricks to use in a programming contest? - Quora](https://www.quora.com/Competitive-Programming/What-are-some-cool-C++-tricks-to-use-in-a-programming-contest) | Plentiful C++ tricks for competitive programming. Note that some should be used with care. |
 | ★★★ | [C++ STL: Policy based data structures - Codeforces: Part 1](https://codeforces.com/blog/entry/11080), [Part 2](https://codeforces.com/blog/entry/13279) | Detailed introduction to the extra data structures implemented in GNU C++. The official documentation can be found [here](https://gcc.gnu.org/onlinedocs/libstdc++/ext/pb_ds/). |
-| ★☆☆ | [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html) | A list of FAQs regarding C++11 collected and written by Bjarne Stroustrup, the creator of C++. |
+| ★☆☆ | [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](https://www.stroustrup.com/C++11FAQ.html) | A list of FAQs regarding C++11 collected and written by Bjarne Stroustrup, the creator of C++. |
 
 ### Java
 
@@ -266,7 +266,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) | A huge compiled list of bit manipulation tricks. |
 | ★★★ | [Comparing Floating Point Numbers, 2012 Edition - Random ASCII](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) | Everything you need to know about floating point numbers. A must read especially for geometry topics. |
-| ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
+| ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](https://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
 
 
 ## Tools
@@ -278,8 +278,8 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- | --- |
 | ★★★ | [Vim](https://www.vim.org/download.php) | CLI / Cross-Platform | Vim is one of the most popular text editors among advanced programmers. It allows text-editing to be done very efficiently with solely keystrokes. Vim is also highly configurable, extensible and integrates with shells (command lines) really well. The only setback about Vim is that it has a high learning curve for beginners. |
 | ★★★ | [Emacs](https://www.gnu.org/software/emacs/download.html) | CLI / Cross-Platform | Emacs is another popular text editor (or development environment to be more precise). The debate on "Vim vs. Emacs" is constantly brought up due to their popularity. Basically Emacs is more than just a text editor. It has plugins like file managers, web browsers, mail clients and news clients that allows users to performs these tasks directly inside Emacs. Emacs is "heavier" because of this, but it arguably has a relatively easier learning curve for beginners. |
-| ★★★ | [Far Manager](https://www.farmanager.com/download.php?l=en) | Hybrid / Windows | Far Manager is the most widely-used editor in the RU/CIS competitive programming community. It's actually a file manager in its bare bones, but you can install [FarColorer](http://colorer.sourceforge.net/farplugin.html) - a syntax highlighter plugin to program on it. Properly configured, Far Manager allows you to navigate between files very efficiently while writing your codes. |
-| ★★★ | [Code::Blocks](http://codeblocks.org/downloads) | GUI / Cross-Platform | Code::Blocks is the go-to IDE for C/C++. It's a full-fledged, versatile IDE with numerous great features. Code::Blocks is usually provided along with Vim in programming contests. |
+| ★★★ | [Far Manager](https://www.farmanager.com/download.php?l=en) | Hybrid / Windows | Far Manager is the most widely-used editor in the RU/CIS competitive programming community. It's actually a file manager in its bare bones, but you can install [FarColorer](https://colorer.sourceforge.net/farplugin.html) - a syntax highlighter plugin to program on it. Properly configured, Far Manager allows you to navigate between files very efficiently while writing your codes. |
+| ★★★ | [Code::Blocks](https://codeblocks.org/downloads) | GUI / Cross-Platform | Code::Blocks is the go-to IDE for C/C++. It's a full-fledged, versatile IDE with numerous great features. Code::Blocks is usually provided along with Vim in programming contests. |
 | ★★★ | [IntelliJ IDEA](https://www.jetbrains.com/idea/#chooseYourEdition) | GUI / Cross-Platform | IntelliJ IDEA is certainly one of the best IDEs for Java. It's used by most competitive programmers who use Java as their main language. Be sure to check out [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper), a very handy plugin written for programming contests. |
 | ★★☆ | [Sublime Text](https://www.sublimetext.com/3) | GUI / Cross-Platform | Sublime Text is an extraordinary text editor. Packed with powerful and innovative features like Multiple Carets, Minimaps and Command Palletes, it attracts a strong and engaging community. Sublime Text is highly extensible, so be sure to have [Package Control](https://packagecontrol.io/) installed and explore perhaps one of the largest catalogue of plugins! |
 | ★★☆ | [Eclipse](https://www.eclipse.org/downloads/) | GUI / Cross-Platform | Eclipse is another good IDE for Java. It's an okay alternative to Intellij IDEA (A tad inferior to IDEA by today's standards). Sometimes contests only provide Eclipse for some reason, so this might be a good incentive to try and use Eclipse. |
@@ -294,7 +294,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★★ | General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](https://codeforces.com/blog/entry/3273)) ... [caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](https://codeforces.com/blog/entry/13369) (AppCode, CLion) [online-judge-tools](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.) | Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
 | ★★☆ | Codeforces Parsers: ... [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser) ... [GoCF](https://github.com/sukeesh/GoCF) ... [cfparser](https://github.com/gnull/cfparser) (emacs) [cfparser](https://github.com/ikatanic/cfparser) (cli) | These tools parse Codeforces contest problems and help run sample tests. |
 | ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem could be equivalent to a simple or studied integer sequence. |
-| ★★☆ | Syntax Highlighters: ... [tohtml.com](https://tohtml.com/) ... [markup.su](http://markup.su/highlighter/) ... [hilite.me](http://hilite.me/) | Very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
+| ★★☆ | Syntax Highlighters: ... [tohtml.com](https://tohtml.com/) ... [markup.su](http://markup.su/highlighter/) ... [hilite.me](https://hilite.me/) | Very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
 | ★★☆ | Code Sharing: ... [Ideone.com](https://ideone.com/) ... [Pastebin.com](https://pastebin.com/) ... [Ubuntu Pastebin](https://paste.ubuntu.com/) | These tools generate semi-permanent pages for code sharing. Very useful especially when you're trying to get someone else to look into your code. |
 | ★★☆ | [Ineffable](https://codeforces.com/blog/entry/19083) | A simple command-line grader for local grading. |
 | ★★☆ | [uDebug](https://www.udebug.com/) | A platform that provides expected outputs for user-specified inputs to problems on the UVa Online Judge. Some problems also provide additional test cases for debugging. |
@@ -306,7 +306,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★★ | [polygon](https://polygon.codeforces.com/) | polygon provides a platform and a rich set of tools for professional contest preparation. ... An example: [Validators with testlib.h - Codeforces](https://codeforces.com/blog/entry/18426) |
 | ★★☆ | [Graph Editor](https://csacademy.com/app/graph_editor/) | A fantastic tool to create and visualize graphs. |
 | ★★☆ | [tcframe](https://github.com/ia-toki/tcframe) | A C++ framework for generating test cases of competitive programming problems. |
-| ★★★ | [Virtual Judge (vjudge)](http://vjudge.net) | Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives. |
+| ★★★ | [Virtual Judge (vjudge)](https://vjudge.net) | Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives. |
 | ★★☆ | [BNU Online Judge](https://www.bnuoj.com/v3/) | BNU Online Judge also allows users to create virtual contests. |
 | ★★☆ | [Kattis](https://open.kattis.com/) | Kattis assists in contest preparation (E-mail them for assistance). |
 
@@ -322,13 +322,13 @@ Learn helpful tips, tutorials and insights from these people :)
 | | [Codeforces blogs](https://codeforces.com/) |
 | Petr Mitrichev (Petr) | [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) |
 | Makoto Soejima (rng_58) | [rng_58's blog](https://rng-58.blogspot.com) |
-| Bruce Merry (bmerry) | [Entropy always increases](http://blog.brucemerry.org.za/) |
+| Bruce Merry (bmerry) | [Entropy always increases](https://blog.brucemerry.org.za/) |
 | Przemysław Dębiak (Psyho) | [Psyho's blog](http://psyho.gg/) |
 | Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
-| vexorian (vexorian) | [vexorian's blog](http://www.vexorian.com/) |
+| vexorian (vexorian) | [vexorian's blog](https://www.vexorian.com/) |
 | Ashar Fuadi (fushar) | [Fushar's blog](http://fusharblog.com/) |
 | LiJie Chen (WJMZBMR) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
-| Huang I-Wen (dreamoon) | [小月的耍廢日誌 (Chinese)](http://dreamoon4.blogspot.com/) |
+| Huang I-Wen (dreamoon) | [小月的耍廢日誌 (Chinese)](https://dreamoon4.blogspot.com/) |
 | Shiang-Yun Yang (morris1028) | [Morris' Blog (Chinese)](https://morris821028.github.io/) |
 | Yuhao Du (TooDifficuIt, TooSimple, xudyh) | [xudyh (Chinese)](https://xudyh.github.io/) |
 
