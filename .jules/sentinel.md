@@ -7,3 +7,8 @@
 **Vulnerability:** Many links in the README.md and index.md reference HTTP URLs which could leak user activity over unencrypted channels or be subject to MITM attacks leading to malicious content substitution.
 **Learning:** Legacy competitive programming websites referenced in the project (e.g., e-maxx.ru, algorithmic tutorials) may not support HTTPS, but many others (especially academic sites and modern platforms) do now. Upgrading these links manually ensures safer browsing for readers.
 **Prevention:** Always verify if a site supports HTTPS and use it by default when adding new resources.
+
+## 2026-08-02 - Cloudflare Mitigation Challenges on HTTPS Upgrade
+**Vulnerability:** Insecure HTTP links in documentation.
+**Learning:** Checking some legacy platforms like `spoj.com` for HTTPS capability programmatically might fail with 403 Forbidden due to Cloudflare anti-bot checks. They still support HTTPS.
+**Prevention:** Consider using browser emulation or relying on known platform behavior rather than strict curl checks for platforms fronted by Cloudflare when doing link verification.
